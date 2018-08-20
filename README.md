@@ -2,7 +2,11 @@
 
 This repository contains a collection of user security stories and acceptance criteria.
 
-Please fork and contribute user security stories that you think will benefit the community.
+- [User Security Stories](user-security-stories.md)
+
+- [Security Acceptance Criteria](security-acceptance-criteria.md)
+
+Please fork and contribute additional security stories and acceptance criteria that you think will benefit the community.
 
 ## History
 
