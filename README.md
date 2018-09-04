@@ -1,16 +1,19 @@
-# user-security-stories
-Repo to hold mapping of user-security-stories
+# User Security Stories
 
-See first version of PDF here https://github.com/OWASP/user-security-stories/blob/master/user-security-stories.pdf
+This repository contains a collection of user security stories and acceptance criteria.
 
-Next step is to convert the pdf into markdown
+- [User Security Stories](user-security-stories.md)
 
-## History 
+- [Security Acceptance Criteria](security-acceptance-criteria.md)
 
-Created from PDF in https://postmodernsecurity.com/2017/10/13/moving-appsec-to-the-left/ , following this twitter thread https://twitter.com/DinisCruz/status/969890711150694410
+Please fork and contribute additional security stories and acceptance criteria that you think will benefit the community.
+
+## History
+
+The markdown contained in this repository was originally created from the [Post Modern Security's PDF](https://postmodernsecurity.com/2017/10/13/moving-appsec-to-the-left/) following this [Twitter thread](https://twitter.com/DinisCruz/status/969890711150694410)
 
 ## Licence
 
-All content in this repo is released under the Created Commons Attribution CC BY (license), all code is relased under Apache 2.0 Open Source licence.
+All content in this repository is released under the Created Commons Attribution CC BY (license), all code is released under Apache 2.0 Open Source licence.
 
 Original PDF license provided [via twitter](https://twitter.com/MrsYisWhy/status/969991710590799872)
